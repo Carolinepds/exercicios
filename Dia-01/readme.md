@@ -34,8 +34,8 @@ node dia-XX/exercicio.js
 ```
 
 ## 📊 Progresso
-- Dias de estudo: 0
-- Exercícios concluídos: 0
+- Dias de estudo: 1
+- Exercícios concluídos: 2
 
 ## 📝 Observações
 Repositório em constante atualização e aprendizado.
